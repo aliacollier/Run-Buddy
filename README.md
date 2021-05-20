@@ -10,8 +10,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-
-https://aliacollier.github.io/run-buddy/
+https://aliacollier.github.io/Run-Buddy/
 
 ## Contribution
 
