@@ -12,7 +12,7 @@ Where you will find information about the gym.
 
 # Website
 
-https://aliacollier.github.io/(change after deleting old runbuddy)/
+https://aliacollier.github.io/Run-Buddy-Remastered/
 
 ## Contribution
 
