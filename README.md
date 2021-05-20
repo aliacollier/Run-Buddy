@@ -1,19 +1,20 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
 
-A webpage for Run-Buddy Gym. 
-Where you will find information about the gym.
+A website that offers fitness training services.
 
 ## Built With
 
-*HTML
-*CSS
+* HTML
+* CSS
 
-# Website
+## Website
 
-https://aliacollier.github.io/Run-Buddy-Remastered/
+https://aliacollier.github.io/run-buddy/
 
 ## Contribution
 
-Made with by Run Buddy
+Made with ❤️ by Alia Collier
+
+### ©️2019 Run Buddy, Inc
